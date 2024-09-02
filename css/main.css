@@ -355,7 +355,7 @@ textarea {
 */
 
 input::-moz-placeholder, textarea::-moz-placeholder {
-  opacity: 1;
+  opacity: 2;
   /* 1 */
   color: #9ca3af;
   /* 2 */
