@@ -355,7 +355,7 @@ textarea {
 */
 
 input::-moz-placeholder, textarea::-moz-placeholder {
-  opacity: 2;
+  opacity: 1;
   /* 1 */
   color: #9ca3af;
   /* 2 */
@@ -558,7 +558,7 @@ video {
 }
 
 .mt-16 {
-  margin-top: 4rem;
+  margin-top: 4.1rem;
 }
 
 .mt-20 {
